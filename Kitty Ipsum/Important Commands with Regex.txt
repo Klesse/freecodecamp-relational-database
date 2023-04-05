@@ -1,0 +1,11 @@
+cat $1 | sed -E 's/catnip/dogchow/g ; s/cat/dog/g ; s/meow|meowzer/woof/g'
+
+diff file1 file 2
+
+./translate.sh kitty_ipsum_1.txt | grep -E --color 'dog[a-z]*|woof[a-z]*'
+
+grep -n 'cat[a-z]*' kitty_ipsum_2.txt | sed -E 's/([0-9]+).*/\1/' >> kitty_info.txt
+
+wc -l
+wl -m
+wl -w 
