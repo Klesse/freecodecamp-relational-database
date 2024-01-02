@@ -1,4 +1,4 @@
-# Freecodecamp - Relation Database
+# Freecodecamp - Relational Database
 
 ## Freecodecamp
 
