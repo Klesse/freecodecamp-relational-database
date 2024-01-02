@@ -28,32 +28,36 @@ The course offers when you finish it a certification, but to get it the student 
 This project consists in creating tables and linking them with foreign keys, and inserting data to the too. The data manipulate in this project 
 is about celestial bodies and universe.
 
-In "Universe" folder.
+In **Universe** folder.
 
 ### 2. World Cup Database
 
 Creating tables and linking them, and inserting data too. So, this project as the prior one, consists in basic creation and table manipulation.
 
-In "World Cup Database" folder.
+In **World Cup Database** folder.
 
 ### 3. Salon Appointment Scheduler
 
 A shell script that interacts with a database. This script is an application to schedule salon appoitments. It queries the database to verify 
 the scheduling to not mark two appointments at the same day and time.
 
-In "Salon Appointment Scheduler" folder.
+In **Salon Appointment Scheduler** folder.
 
 ### 4. Periodic Table Database
 
 Database manipulation and query about periodic elements.
 
-In "Periodic Table" folder.
+In **Periodic Table** folder.
 
 ### 5. Number Guessing Game
 
 A shell script game that generate pseudo random numbers and save users scores at a database.
 
-In "Number Guessing Game" folder.
+In **Number Guessing Game** folder.
+
+## Other projects
+
+In this repository there is another projects done troughout the course, but them was not needed to get the certification.
 
 ## Certification
 
